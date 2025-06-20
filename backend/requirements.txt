@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+selenium
+beautifulsoup4
+openai
+numpy
+python-dotenv
+webdriver-manager 
+

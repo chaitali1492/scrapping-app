@@ -1,0 +1,15 @@
+# === Python ===
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+**/venv/
+
+# === React / Node.js ===
+**/node_modules/
+**/build/
+**/.env
+
+# === Common ===
+.DS_Store
